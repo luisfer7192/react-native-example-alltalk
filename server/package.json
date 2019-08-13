@@ -1,0 +1,14 @@
+{
+  "name": "test-server",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [],
+  "author": "Luis Fernando Salazar Buitrago",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "cross-env": "^5.1.4"
+  }
+}
